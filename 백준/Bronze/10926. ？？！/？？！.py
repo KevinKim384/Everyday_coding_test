@@ -1,0 +1,2 @@
+joon = input()
+print(joon+"??!")
